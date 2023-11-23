@@ -9,6 +9,7 @@ functions = "*"
 openai = "*"
 packaging = "*"
 requests = "*"
+gunicorn = "*"
 
 [dev-packages]
 
